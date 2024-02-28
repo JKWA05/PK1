@@ -1,5 +1,5 @@
 {
-  "fnmods_update": [
+  "devinfo": [
     {
  "version":"12",
  "title":"Update Disponible",
